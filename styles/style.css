@@ -29,7 +29,7 @@ a:hover {
   --secondary: hsla(0, 0%, 0%, 0.7);
 }
 body {
-  display: grid;
+  display: ;
   min-height: 100vh;
   background: linear-gradient(135deg, var(--primary), var(--secondary)),
         url('/image/bg.jpg') center; 
