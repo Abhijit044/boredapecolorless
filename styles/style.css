@@ -32,7 +32,7 @@ body {
   display: grid;
   min-height: 100vh;
   background: linear-gradient(135deg, var(--primary), var(--secondary)),
-        url('../image/bg.jpg') center; 
+        url(../image/bg.jpg) center; 
   
 }
 h1 {
